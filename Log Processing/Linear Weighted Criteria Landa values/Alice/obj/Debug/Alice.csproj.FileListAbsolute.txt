@@ -1,0 +1,50 @@
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\obj\Debug\Alice.Form1.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\bin\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\bin\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\obj\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Alice\Alice\obj\Debug\Alice.pdb
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\obj\Debug\Alice.exe
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\obj\Debug\Alice.pdb
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\bin\Debug\Alice.exe
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\bin\Debug\Alice.pdb
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\obj\Debug\ResolveAssemblyReference.cache
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\obj\Debug\Alice.Form1.resources
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\obj\Debug\Alice.Properties.Resources.resources
+E:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\eXercises\0 1 2\1st Part - Exrcise4\Source Code in C#.Net\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
+D:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\Project\backUp of code\Visual Studio 2008 27 AUG 19-15\Projects\Alice\Alice\obj\Debug\Alice.exe
+D:\COURSE\CE AI MS Terms in AUT\2nd Term\Statistical Natural Language Processing\Project\backUp of code\Visual Studio 2008 27 AUG 19-15\Projects\Alice\Alice\obj\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\obj\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\obj\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\bin\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\bin\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\obj\Debug\Alice.Form1.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Concept-based Combination\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\obj\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\obj\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\obj\Debug\Alice.Form1.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\bin\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Population-based Voting\Alice\bin\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\obj\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\obj\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\obj\Debug\Alice.Form1.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\bin\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria\Alice\bin\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\obj\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\obj\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\bin\Debug\Alice.exe
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\bin\Debug\Alice.pdb
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\obj\Debug\Alice.Form1.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Documents and Settings\VAIO\My Documents\Visual Studio 2008\Projects\Linear Weighted Criteria Landa values\Alice\obj\Debug\Alice.csproj.GenerateResource.Cache
